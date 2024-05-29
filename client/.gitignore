@@ -22,3 +22,5 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+*.MONGO_URL=mongodb+srv://mayadihno:@cluster0.qok61vi.mongodb.net/?retryWrites=true&w=majority
+#R7NN22x40WWL95D5
